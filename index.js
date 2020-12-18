@@ -48,5 +48,5 @@ const start = async (client = new Client()) => {
     }
 
 create('BarBar', options(true, start))
-    .then(client => start(client))
+    .then(clie))
     .catch((error) => console.log(error))
